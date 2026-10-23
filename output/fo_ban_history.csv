@@ -1,4 +1,7 @@
 trade_date,symbol,ban_status,reason,source,consecutive_days_in_ban
+2026-10-26,AMBUJACEM,IN_BAN,Exceeded 95% Market Wide Position Limit (MWPL),NSE_FO_SECBAN,5
+2026-10-26,KAYNES,IN_BAN,Exceeded 95% Market Wide Position Limit (MWPL),NSE_FO_SECBAN,5
+2026-10-26,SAIL,IN_BAN,Exceeded 95% Market Wide Position Limit (MWPL),NSE_FO_SECBAN,5
 2026-10-23,AMBUJACEM,IN_BAN,Exceeded 95% Market Wide Position Limit (MWPL),NSE_FO_SECBAN,4
 2026-10-23,KAYNES,IN_BAN,Exceeded 95% Market Wide Position Limit (MWPL),NSE_FO_SECBAN,4
 2026-10-23,SAIL,IN_BAN,Exceeded 95% Market Wide Position Limit (MWPL),NSE_FO_SECBAN,4
