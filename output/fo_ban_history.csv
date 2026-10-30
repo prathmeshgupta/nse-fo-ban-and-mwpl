@@ -1,4 +1,6 @@
 trade_date,symbol,ban_status,reason,source,consecutive_days_in_ban
+2026-11-02,KAYNES,IN_BAN,Exceeded 95% Market Wide Position Limit (MWPL),NSE_FO_SECBAN,9
+2026-11-02,SAIL,IN_BAN,Exceeded 95% Market Wide Position Limit (MWPL),NSE_FO_SECBAN,10
 2026-10-30,KAYNES,IN_BAN,Exceeded 95% Market Wide Position Limit (MWPL),NSE_FO_SECBAN,8
 2026-10-30,SAIL,IN_BAN,Exceeded 95% Market Wide Position Limit (MWPL),NSE_FO_SECBAN,9
 2026-10-29,KAYNES,IN_BAN,Exceeded 95% Market Wide Position Limit (MWPL),NSE_FO_SECBAN,7
